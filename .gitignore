@@ -7,3 +7,4 @@ test/e2e/reports
 selenium-debug.log
 yarn-error.log
 .idea
+src/AV.js
