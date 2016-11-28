@@ -13,6 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
+    "codemirror": "^5.21.0",
     "leancloud-storage": "^1.5.2",
     "lodash": "^4.17.2",
     "marked": "^0.3.6",
