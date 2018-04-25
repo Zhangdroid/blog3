@@ -1,5 +1,7 @@
 # blog
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Zhangdroid/blog3.svg)](https://greenkeeper.io/)
+
 > A simple blog
 
 ## Build Setup
